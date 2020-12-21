@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial/
 
 Set dbt profile location as below:
 ```

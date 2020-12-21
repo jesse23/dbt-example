@@ -1,0 +1,7 @@
+# dbt files
+target/
+dbt_modules/
+logs/
+
+# mac
+.DS_Store

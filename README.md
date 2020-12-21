@@ -1,5 +1,10 @@
 Welcome to your new dbt project!
 
+Set dbt profile location as below:
+```
+export DBT_PROFILES_DIR=./
+```
+
 ### Using the starter project
 
 Try running the following commands:

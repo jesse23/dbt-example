@@ -1,0 +1,14 @@
+# For more information on how to configure this file, please see:
+# https://docs.getdbt.com/docs/profile
+tutorial:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      threads: 1
+      host: dockervm.local 
+      port: 5432
+      user: start_data_engineer
+      pass: password
+      dbname: tutorial
+      schema: dbt_tutorial
